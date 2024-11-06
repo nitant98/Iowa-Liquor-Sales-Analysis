@@ -69,8 +69,4 @@ This project focuses on analyzing Iowa’s liquor sales data by creating a data 
 - **Data Modeling**: **ER/Studio** for dimensional modeling.
 - **Business Intelligence**: **Tableau** and **Power BI** for dashboards and data visualization.
 
-## Deliverables
-1. **ETL Job Screenshots and Logs**: Document ETL process for both Alteryx and Talend loads.
-2. **Dimensional Model**: Data model file and SQL DDL script for schema creation.
-3. **Business Reports and Dashboards**: SQL query results and visual dashboards for business questions.
 
