@@ -44,26 +44,26 @@ This project focuses on analyzing Iowa’s liquor sales data by creating a data 
 ![Dimensional Model](https://github.com/user-attachments/assets/f4b7dd90-4f89-4191-8615-d31e23a486f8)
 
 ### Part 3: Business Intelligence and Reporting
+   - **Key Business Questions**:
+      1. **Sales Analysis**:
+         - Total sales ($) by year, city, store, category, and vendor.
+         - Sales volume in gallons and bottles.
+         - Gross profit by sales cost and retail price.
+         - Sales per capita across different regions.
+      
+      2. **Temporal Analysis**:
+         - Monthly and yearly sales trends.
+         - Year-over-year comparison of sales volume and profit.
+      
+      3. **Geographical Analysis**:
+         - Top 10 cities, counties, and stores by sales volume.
+         - Sales distribution across urban and rural areas.
+         - 
    - **SQL Queries**: Generate reports for:
      - Sales ($, volume, per capita) by year, city, county, store, category, and vendor.
      - Gross profit by sales cost and retail price.
    - **Dashboard Development**:
      - **Power BI** and **Tableau** dashboards to visualize top-performing stores, cities, categories, and trends.
-
-## Key Business Questions
-1. **Sales Analysis**:
-   - Total sales ($) by year, city, store, category, and vendor.
-   - Sales volume in gallons and bottles.
-   - Gross profit by sales cost and retail price.
-   - Sales per capita across different regions.
-
-2. **Temporal Analysis**:
-   - Monthly and yearly sales trends.
-   - Year-over-year comparison of sales volume and profit.
-
-3. **Geographical Analysis**:
-   - Top 10 cities, counties, and stores by sales volume.
-   - Sales distribution across urban and rural areas.
 
 ## Tools and Technologies
 - **ETL Tools**: **Alteryx** and **Talend** for data transformation.
