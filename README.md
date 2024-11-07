@@ -40,6 +40,8 @@ This project focuses on analyzing Iowa’s liquor sales data by creating a data 
    - **Dimensional Model Creation**: Create a schema using **ER/Studio** or **Navicat**.
    - **SQL DDL Scripting**: Generate DDL scripts for dimensional tables in the database.
    - **Load Integration Schema**: Load data from staging into the dimensional model for analytical queries.
+   - 
+![Dimensional Model](https://github.com/user-attachments/assets/f4b7dd90-4f89-4191-8615-d31e23a486f8)
 
 ### Part 3: Business Intelligence and Reporting
    - **SQL Queries**: Generate reports for:
