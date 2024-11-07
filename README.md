@@ -63,12 +63,12 @@ This project focuses on analyzing Iowa’s liquor sales data by creating a data 
      - Sales ($, volume, per capita) by year, city, county, store, category, and vendor.
      - Gross profit by sales cost and retail price.
    - **Dashboard Development**:
-     - **Power BI** and **Tableau** dashboards to visualize top-performing stores, cities, categories, and trends.
+     - **Tableau** dashboards to visualize top-performing stores, cities, categories, and trends.
 
 ## Tools and Technologies
 - **ETL Tools**: **Alteryx** and **Talend** for data transformation.
 - **Database Management**: **Azure SQL**, **SQL Server**
 - **Data Modeling**: **ER/Studio** for dimensional modeling.
-- **Business Intelligence**: **Tableau** and **Power BI** for dashboards and data visualization.
+- **Business Intelligence**: **Tableau** for dashboards and data visualization.
 
 
