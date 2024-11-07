@@ -34,16 +34,9 @@ This project focuses on analyzing Iowa’s liquor sales data by creating a data 
        - `stg_iowa_liquor_stores`
        - `stg_iowa_city_population_by_year`
        - `stg_iowa_county_population_by_year`
-   - **Data Cleansing**: Define cleansing steps, handle inconsistencies, and save cleansed data to separate tables.
+   - **Data Cleansing**: Defined cleansing steps, handled inconsistencies, and saved cleansed data in separate tables.
 
 ### Part 2: Dimensional Modeling and Integration Schema
-   - **Dimensional Model Creation**: Create a schema using **ER/Studio** or **Navicat**.
-   - **SQL DDL Scripting**: Generate DDL scripts for dimensional tables in the database.
-   - **Load Integration Schema**: Load data from staging into the dimensional model for analytical queries.
-     
-![Dimensional Model](https://github.com/user-attachments/assets/f4b7dd90-4f89-4191-8615-d31e23a486f8)
-
-### Part 3: Business Intelligence and Reporting
    - **Key Business Questions**:
       1. **Sales Analysis**:
          - Total sales ($) by year, city, store, category, and vendor.
@@ -59,7 +52,14 @@ This project focuses on analyzing Iowa’s liquor sales data by creating a data 
          - Top 10 cities, counties, and stores by sales volume.
          - Sales distribution across urban and rural areas.
          - 
-   - **SQL Queries**: Generate reports for:
+   - **Dimensional Model Creation**: Based on the business requirements created a schema using **ER/Studio**.
+   - **SQL DDL Scripting**: Generated DDL scripts for dimensional tables in the database.
+   - **Load Integration Schema**: Loaded data from staging into the dimensional model for analytical queries.
+     
+![Dimensional Model](https://github.com/user-attachments/assets/f4b7dd90-4f89-4191-8615-d31e23a486f8)
+
+### Part 3: Business Intelligence and Reporting           
+   - **SQL Queries**: Generated reports for:
      - Sales ($, volume, per capita) by year, city, county, store, category, and vendor.
      - Gross profit by sales cost and retail price.
    - **Dashboard Development**:
