@@ -65,7 +65,11 @@ This project focuses on analyzing Iowa’s liquor sales data by creating a data 
    - **Dashboard Development**:
      - **Tableau** & **Power BI** dashboards to visualize top-performing stores, cities, categories, and trends.
 
+###### Tableau
 ![Screenshot 2024-10-31 101058](https://github.com/user-attachments/assets/1c3bcd71-f633-4a07-852b-f63207138655)
+
+###### Power BI
+![Screenshot 2024-11-07 193832](https://github.com/user-attachments/assets/b334c228-3a42-47bd-ba7d-b189c8f83394)
 
 ## Tools and Technologies
 - **ETL Tools**: **Alteryx** and **Talend** for data transformation.
